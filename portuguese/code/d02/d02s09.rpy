@@ -581,11 +581,11 @@ translate portuguese d02s09_3e062af3:
 translate portuguese d02s09_f2d314d2:
 
     # nk "I think you are just bullshitting me! Are you trying to get into my panties?"
-    nk "I think you are just bullshitting me! Are you trying to get into my panties?"
+    nk "Acho que cê tá me zuando! Cê tá querendo me comer?"
 
 # game/code/d02/d02s09.rpy:217
 translate portuguese d02s09_00b1d252:
 
     # mc "Then you miss out on this opportunity and won't get my help with your business."
-    mc "Then you miss out on this opportunity and won't get my help with your business."
+    mc "Então cê perde esta oportunidade e não vai ter minha ajuda para resolver seus problemas."
 
